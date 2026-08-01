@@ -57,15 +57,3 @@ I'm a Fedora user and an unapologetic Ansible enthusiast. I like infrastructure 
 I work extensively with stateful production systems, including ZFS-based storage, replicated block devices, database replication, backups, recovery and high-availability infrastructure.
 
 I'm particularly comfortable with MySQL-compatible databases and Percona tooling, including the operational work required to keep stateful systems performant, recoverable and reliable.
-
-## Engineering preferences
-
-I care about practical engineering, clear architecture and software that solves an actual problem.
-
-I prefer ownership over ceremony, automation over repetitive work and simple systems over clever abstractions that require an archaeological expedition six months later.
-
-<div align="center">
-
-**Build useful things. Automate the boring parts. Verify the dangerous ones.**
-
-</div>
