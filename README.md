@@ -30,23 +30,6 @@ I spend a lot of time exploring AI-assisted development, agent systems and the w
 
 I'm particularly interested in structured planning, isolated execution, model specialisation, verification, escalation and keeping humans in control of consequential changes. I see AI as an engineering tool, not a substitute for engineering discipline: useful automation still needs boundaries, observability, review and someone accountable for the result.
 
-## What I'm building
-
-### [SpecOps](https://github.com/jrpbuilds/specops)
-
-My primary open-source project.
-
-SpecOps is a specification-driven development system for OpenCode. It coordinates specialised agents across assessment, exploration, planning, implementation, verification and review, with intelligent model assignment and task escalation.
-
-The project reflects my broader interest in making AI-assisted development more structured, observable and reliable than simply handing an agent a repository and hoping for the best.
-
-### [Barkley Assistant](https://github.com/barkley-assistant)
-
-I also work on agent-driven software projects with Barkley Assistant, including:
-
-- **[Signal House](https://github.com/barkley-assistant/signal-house)** — a local-first analytics and intelligence dashboard.
-- **[Caduceus](https://github.com/barkley-assistant/caduceus)** — structured agent orchestration using isolated Git worktrees.
-
 ## Core areas
 
 ### Backend and systems
