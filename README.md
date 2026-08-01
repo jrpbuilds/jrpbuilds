@@ -26,3 +26,20 @@ I prefer smaller, fast-moving companies where engineers can directly influence b
 
 > [!NOTE]
 > **I'm not looking for a new role.** This is a home for the open-source tools and experimental projects I build outside work.
+
+## Contribution history
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/jrpbuilds/jrpbuilds/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/jrpbuilds/jrpbuilds/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution grid snake animation"
+    src="https://raw.githubusercontent.com/jrpbuilds/jrpbuilds/output/github-contribution-grid-snake.svg"
+  />
+</picture>
