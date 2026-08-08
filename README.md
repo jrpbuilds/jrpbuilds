@@ -4,7 +4,7 @@
 
 **Software engineer · infrastructure and operations · developer tooling · agent systems**
 
-[![SpecOps](https://img.shields.io/badge/Primary_Project-SpecOps-7c3aed?style=for-the-badge&logo=github)](https://github.com/jrpbuilds/specops)
+[![SpecOps](https://img.shields.io/badge/Primary_Project-SpecOps-7c3aed?style=for-the-badge&logo=github)](https://github.com/jrpbuilds/specops-opencode)
 [![Instiller](https://img.shields.io/badge/Engineering_at-Instiller-0f766e?style=for-the-badge)](https://instiller.co.uk/)
 [![Barkley Assistant](https://img.shields.io/badge/Building_with-Barkley_Assistant-111827?style=for-the-badge&logo=github)](https://github.com/barkley-assistant)
 
