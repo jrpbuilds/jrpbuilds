@@ -12,7 +12,7 @@
 
 ## About me
 
-I'm a software engineer with more than 10 years of experience building, operating and maintaining production software.
+I'm a developer with more than 10 years of experience building, operating and maintaining production software.
 
 I currently work at [Instiller](https://instiller.co.uk/), a white-label email marketing platform for agencies. My role spans infrastructure, operations, cloud architecture and hands-on software development, so I tend to work wherever application engineering meets production reliability.
 
