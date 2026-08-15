@@ -5,9 +5,8 @@
 **Programmer first. Engineer by consequence.**
 
 [![Website](https://img.shields.io/badge/jrpbuilds.co.uk-151512?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.jrpbuilds.co.uk/)
-[![SpecOps](https://img.shields.io/badge/Primary_Project-SpecOps-7c3aed?style=for-the-badge&logo=github)](https://github.com/jrpbuilds/specops-opencode)
 [![Instiller](https://img.shields.io/badge/Engineering_at-Instiller-0f766e?style=for-the-badge)](https://instiller.co.uk/)
-[![Barkley Assistant](https://img.shields.io/badge/Building_with-Barkley_Assistant-111827?style=for-the-badge&logo=github)](https://github.com/barkley-assistant)
+[![Barkley Assistant](https://img.shields.io/badge/Barkley_Assistant-111827?style=for-the-badge&logo=github)](https://github.com/barkley-assistant)
 
 </div>
 
