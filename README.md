@@ -2,30 +2,32 @@
 
 # Jake Paine
 
-**Software engineering · infrastructure and operations · developer tooling · agent systems**
+**Programmer first. Engineer by consequence.**
 
+[![Website](https://img.shields.io/badge/jrpbuilds.co.uk-151512?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.jrpbuilds.co.uk/)
 [![SpecOps](https://img.shields.io/badge/Primary_Project-SpecOps-7c3aed?style=for-the-badge&logo=github)](https://github.com/jrpbuilds/specops-opencode)
 [![Instiller](https://img.shields.io/badge/Engineering_at-Instiller-0f766e?style=for-the-badge)](https://instiller.co.uk/)
 [![Barkley Assistant](https://img.shields.io/badge/Building_with-Barkley_Assistant-111827?style=for-the-badge&logo=github)](https://github.com/barkley-assistant)
 
 </div>
 
-## About me
+I'm a programmer and software engineer in Birmingham, UK, working across product development, Linux infrastructure, networks, security and developer tooling. I care about the whole system, but I still genuinely enjoy sitting down and writing the thing.
 
-I'm a developer with more than 10 years of experience building, operating and maintaining production software.
+At [Instiller](https://instiller.co.uk/) my work sits somewhere between backend development, infrastructure and operations. Outside work I build open-source tools, experiment with agent-driven development and occasionally disappear down a Rust-shaped rabbit hole.
 
-I currently work at [Instiller](https://instiller.co.uk/), a white-label email marketing platform for agencies. My role spans infrastructure, operations, cloud architecture and hands-on software development, so I tend to work wherever application engineering meets production reliability.
+My full background, projects and writing live at **[jrpbuilds.co.uk](https://www.jrpbuilds.co.uk/)**.
 
-I'm most at home with **PHP** and **Go**. I also work extensively with **JavaScript**, **TypeScript**, **Python** and **Bash**.
+## Selected work
 
-I enjoy exploring lower-level systems and learning more about how software works beneath the application layer, particularly through **Rust**, operating systems, storage and networking.
+- **[Caduceus](https://github.com/barkley-assistant/caduceus)** — a Rust daemon for turning labelled GitHub issues into bounded, deterministic development runs and pull requests.
+- **[SpecOps](https://github.com/jrpbuilds/specops-opencode)** — a lightweight OpenCode plugin for spec-driven development using specialist models around an OpenSpec workflow.
+- **[Barkway](https://www.barkway.app/)** — a Laravel platform for the operational side of running a grooming business.
+- **[Keyseal](https://github.com/jrpbuilds/keyseal)** — a small Go CLI for predictable SOPS, age and Git-backed secret workflows in production.
 
-Although backend engineering and infrastructure are where I'm most comfortable, I'm also experienced in full-stack product development. I regularly work with React and Vue, frontend architecture, state management, API integration and desktop-style applications built with web technologies.
-
-I prefer smaller, fast-moving companies where engineers can directly influence both the product and the wider business. The best environments are the ones where you can identify a problem, propose a better approach and actually make the change.
+I mostly reach for **PHP, Go, Rust, TypeScript, Python and Bash**, with **Rocky Linux, Ansible, Percona/MySQL, Redis, Docker and Git** around them.
 
 > [!NOTE]
-> **I'm not looking for a new role.** This is a home for the open-source tools and experimental projects I build outside work.
+> **I'm not looking for a new role.** This profile is mainly a home for the software and experiments I build outside work.
 
 ## Contribution history
 
