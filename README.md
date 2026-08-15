@@ -17,13 +17,6 @@ At [Instiller](https://instiller.co.uk/) my work sits somewhere between backend 
 
 My full background, projects and writing live at **[jrpbuilds.co.uk](https://www.jrpbuilds.co.uk/)**.
 
-## Selected work
-
-- **[Caduceus](https://github.com/barkley-assistant/caduceus)** — a Rust daemon for turning labelled GitHub issues into bounded, deterministic development runs and pull requests.
-- **[SpecOps](https://github.com/jrpbuilds/specops-opencode)** — a lightweight OpenCode plugin for spec-driven development using specialist models around an OpenSpec workflow.
-- **[Barkway](https://www.barkway.app/)** — a Laravel platform for the operational side of running a grooming business.
-- **[Keyseal](https://github.com/jrpbuilds/keyseal)** — a small Go CLI for predictable SOPS, age and Git-backed secret workflows in production.
-
 I mostly reach for **PHP, Go, Rust, TypeScript, Python and Bash**, with **Rocky Linux, Ansible, Percona/MySQL, Redis, Docker and Git** around them.
 
 > [!NOTE]
