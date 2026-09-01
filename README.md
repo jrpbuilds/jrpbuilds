@@ -8,7 +8,7 @@ Programmer & software engineer in Birmingham, UK.
 
 [![Website](https://img.shields.io/badge/jrpbuilds.co.uk-151512?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.jrpbuilds.co.uk/)
 [![Projects](https://img.shields.io/badge/Selected_work-111827?style=for-the-badge&logo=github&logoColor=white)](https://www.jrpbuilds.co.uk/#work)
-[![Writing](https://img.shields.io/badge/Writing-3f3f46?style=for-the-badge&logo=readthedocs&logoColor=white)](https://www.jrpbuilds.co.uk/#writing)
+[![Writing](https://img.shields.io/badge/Writing-3f3f46?style=for-the-badge&logo=readthedocs&logoColor=white)](https://www.jrpbuilds.co.uk/writing)
 
 </div>
 
