@@ -16,19 +16,70 @@ I build software, infrastructure and developer tooling — usually close enough 
 
 At [Instiller](https://instiller.co.uk/) my work spans backend development, infrastructure, operations and security. Outside work I build open-source tools, experiment with agent-driven development and occasionally disappear down a Rust-shaped rabbit hole.
 
-## Selected work
-
-- **[Caduceus](https://github.com/barkley-assistant/caduceus)** — a Rust daemon that turns labelled GitHub issues into bounded development runs and pull requests, while keeping scheduling, state, worktrees and timeouts outside the non-deterministic worker. [Project page →](https://www.jrpbuilds.co.uk/projects/caduceus/)
-- **[Keyseal](https://github.com/jrpbuilds/keyseal)** — a small Go CLI for predictable SOPS, age and Git-backed secret workflows: encrypted-file lifecycle, validation, rendering and deploy-time secret injection. [Project page →](https://www.jrpbuilds.co.uk/projects/keyseal/)
-- **[SpecOps](https://github.com/jrpbuilds/specops-opencode)** — an OpenCode plugin for spec-driven development, using specialist models to investigate, plan, design, implement and review changes while OpenSpec remains the durable source of truth. [Project page →](https://www.jrpbuilds.co.uk/projects/specops/)
-- **[Signal House](https://github.com/barkley-assistant/signal-house)** — a local-first operator dashboard for AI-assisted development, reporting delivery, cycle time, CI health, stale work and agent spend from Git, GitHub and agent session data. [Project page →](https://www.jrpbuilds.co.uk/projects/signal-house/)
-
 ## What I work with
 
-**Languages:** PHP · Go · Rust · TypeScript · Python · Bash  
-**Systems:** Fedora · Rocky Linux · Ansible · Docker · ZFS  
-**Data:** Percona / MySQL · Redis · SQLite  
-**Tooling:** Bun · Git · OpenCode · CI
+My work tends to cross the boundary between software and systems. I’m as comfortable working through an application problem as I am diagnosing a Linux host, designing storage, tracing a network issue or planning a production migration.
+
+<table>
+  <tr>
+    <td><strong>Software</strong></td>
+    <td>PHP, Go, TypeScript, JavaScript, Python, Bash</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>Laravel, Symfony, Zend, REST APIs, OAuth2, JWT, queues, workers, CLI tooling</td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>Vue, React, HTML, CSS, Sass, Vite</td>
+  </tr>
+  <tr>
+    <td><strong>Linux & infrastructure</strong></td>
+    <td>RHEL, Rocky Linux, Fedora, ArchLinux, Debian, Ubuntu, Docker, Ansible, AWS</td>
+  </tr>
+  <tr>
+    <td><strong>Data & storage</strong></td>
+    <td>Percona / MySQL, Redis, Memcached, SQLite, ZFS, DRBD, LVM</td>
+  </tr>
+  <tr>
+    <td><strong>Networking & security</strong></td>
+    <td>TCP/IP, VLANs, VPNs, firewalls, reverse proxies, Linux hardening, application security</td>
+  </tr>
+  <tr>
+    <td><strong>Delivery & operations</strong></td>
+    <td>GitHub Actions, Bitbucket Pipelines, immutable releases, Prometheus, Grafana, high availability, disaster recovery</td>
+  </tr>
+  <tr>
+    <td><strong>Developer tooling</strong></td>
+    <td>Git, Go CLI/daemon development, plugin systems, CI tooling, agent-driven development, OpenCode, MCP</td>
+  </tr>
+</table>
+
+<details>
+<summary><strong>More systems & infrastructure</strong></summary>
+
+<br>
+
+**AWS**  
+EC2 · S3 · IAM · ECR · Route 53 · CloudFront · CodeDeploy
+
+**Storage**  
+ZFS replication & snapshots · Linux MD RAID · DRBD · LVM · NFS · Samba · encrypted volumes · Tang / Clevis
+
+**Networking**  
+Routing · subnets · NAT · WatchGuard · managed switching · iptables · nftables · firewalld · OpenVPN
+
+**Security**  
+SSH hardening · firewall policy · secrets management · dependency scanning · vulnerability remediation · OWASP · Fail2Ban · Dependabot
+
+**Web infrastructure**  
+Nginx · Apache · Varnish · Squid · keepalived · PowerMTA
+
+</details>
+
+**Currently exploring:** Rust · Tokio · Axum
+
+I enjoy the parts of engineering where the boundaries get blurry: applications that need to survive production, infrastructure that benefits from software thinking, and systems where storage, networking and deployment are all part of the same problem.
 
 ## Contributions
 
