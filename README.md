@@ -98,7 +98,7 @@ I enjoy the parts of engineering where the boundaries get blurry: applications t
   />
 </picture>
 
-<br>
+<hr>
 
 <a href="https://github.com/jrpbuilds/hermes-lumen-theme">
   <img
