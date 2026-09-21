@@ -97,3 +97,12 @@ I enjoy the parts of engineering where the boundaries get blurry: applications t
     src="https://raw.githubusercontent.com/jrpbuilds/jrpbuilds/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+<br>
+
+<a href="https://github.com/jrpbuilds/hermes-lumen-theme">
+  <img
+    src="https://www.jrpbuilds.co.uk/images/projects/lumen/lumen-banner-profile.webp"
+    alt="Lumen — a theme for Hermes Desktop"
+  />
+</a>
